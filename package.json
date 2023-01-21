@@ -1,16 +1,16 @@
 {
-  "name": "react-notifications",
+  "name": "react-simple-notifications",
   "version": "0.1.0",
-  "description": "React 18 notifications",
+  "description": "React simple notifications",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/esm/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucasvallejo1992/vue-notifications.git"
+    "url": "git+https://github.com/lucasvallejo1992/react-notifications.git"
   },
   "peerDependencies": {
-    "react": ">=18"
+    "react": ">=16"
   },
   "files": [
     "dist",
